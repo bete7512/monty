@@ -1,1 +1,1 @@
-hello monty stack and queue
+0x19. C - Stacks, Queues - LIFO, FIFO
